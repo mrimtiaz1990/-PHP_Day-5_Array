@@ -4,7 +4,7 @@
 3. Associative Array, 
 4. Multidimensional Array, 
 5. Multidimensional and Associative Array, 
-6. 
+
 **Sorting Array**
 1. Array Column, 
 2. Array Combine, 
